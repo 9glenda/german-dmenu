@@ -1,4 +1,4 @@
-# Dmenu script ty type german special characters like `ä`
+# Dmenu script to type german special characters like `ä`
 ## Installation
 ### nixos
 ```sh
