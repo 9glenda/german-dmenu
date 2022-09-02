@@ -15,7 +15,7 @@ cd german-dmenu
 make install
 ```
 the application is then in /usr/bin/german
-### manual
+### manual install
 copy the main.sh into the directory you want to install it to.
 ## Dependencies 
 Compatibility is archived through minimalism and as less dependencies as possible.
@@ -25,5 +25,7 @@ Compatibility is archived through minimalism and as less dependencies as possibl
 4. `grep`
 5. `sh` tested with Busybox ash
 6. `make` (optional only for install process)
-# LICENSE
+## This script is feature complete
+Because of this being feaure complete I'll most likely not change anything in the script
+## LICENSE
 This project is licensed under the GPLv3.
