@@ -25,14 +25,5 @@ Compatibility is archived through minimalism and as less dependencies as possibl
 4. `grep`
 5. `sh` tested with Busybox ash
 6. `make` (optional only for install process)
-### Testing of different coreutils
-The coreutils youre using need to have grep and awk.
-To test with busybox:
-```sh
-./test.sh busybox busybox ash
-```
-```sh
-./test.sh <awk to use> <grep to use> <shell to run script with>
-```
 # LICENSE
 This project is licensed under the GPLv3.
