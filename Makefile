@@ -1,2 +1,7 @@
+DESTDIR:=/bin
+PREFIX:=/usr
+
 install:
-	install main.sh /usr/bin/german
+	echo "hello"
+	install main.sh ${PREFIX}${DESTDIR}/german
+
